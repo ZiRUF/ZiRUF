@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiRUF
-- 👀 I’m interested in JavaScript, CSS, C++, Ethereum, Bitcoin
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in C++, Ethereum, Bitcoin
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yotaproinfo@ya.ru
 
